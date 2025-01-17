@@ -6,5 +6,5 @@
 |----|---|-----|------|
 |**Fajar Julianwar**|**312310672**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
-# Link YouTube
+# Link YouTube Penjelasan 
 ## https://youtu.be/zoMqxotnick
